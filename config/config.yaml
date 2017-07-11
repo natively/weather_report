@@ -1,0 +1,8 @@
+#
+# Add zip codes and their respective report interval (in seconds) here:
+#
+zip_codes:
+  37922: 5
+  93010: 10
+  90210: 3
+
