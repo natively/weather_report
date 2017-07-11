@@ -1,5 +1,6 @@
 Weather Report
 ==============
+![image of weather report](https://raw.githubusercontent.com/natively/weather_report/master/wr.jpg)
 
 Pulls current weather reports from OpenWeatherMap and saves them to a local SQLite3 database `weather_report.db`
 
